@@ -1,3 +1,3 @@
-# Dsily Quote sender
+# Daily Quote sender
 
 server link : https://daily-quotes-72mi.onrender.com
